@@ -77,3 +77,14 @@ __Tested on__
 	- ```sudo apt-get install python-rpi.gpio```
 1. And Run, might need `sudo`
 	- ```./sample_blink.py```
+
+
+## Hackathon
+January 21, 2017
+Galvanize San Francisco SoMa
+https://eny.devpost.com/
+
+### Judging Criteria
+* Value to user - Is product/service solves pain point of customer or provide positive benefit?
+* User experience - How eny improved the UX of existing user or create new user?
+* Distinctiveness vs. existing solution - How is the solution unique to existing product/service?
