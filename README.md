@@ -80,11 +80,11 @@ __Tested on__
 
 
 ## Hackathon
-January 21, 2017
-Galvanize San Francisco SoMa
-https://eny.devpost.com/
+January 21, 2017  
+Galvanize San Francisco SoMa  
+https://eny.devpost.com/  
 
 ### Judging Criteria
-* Value to user - Is product/service solves pain point of customer or provide positive benefit?
-* User experience - How eny improved the UX of existing user or create new user?
-* Distinctiveness vs. existing solution - How is the solution unique to existing product/service?
+* Value to user - *Is product/service solves pain point of customer or provide positive benefit?*
+* User experience - *How eny improved the UX of existing user or create new user?*
+* Distinctiveness vs. existing solution - *How is the solution unique to existing product/service?*
